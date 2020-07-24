@@ -1,0 +1,51 @@
+{
+  "result": [{
+    "_id": "5a07ef41ad8b300e28e2feb7",
+    "title": "华硕(ASUS) 飞行堡垒三代FX60VM GTX1060 15.6英寸游戏笔记本电脑",
+    "cid": "59f1e4919bfd8f3bd030eed6",
+    "price": 5699,
+    "old_price": "5699",
+    "pic": "http://jd.itying.com/upload/09-yRFS8J97pZ3awPOzYWY2q.jpg",
+    "s_pic": "http://jd.itying.com/upload/09-yRFS8J97pZ3awPOzYWY2q.jpg_200x200.jpg"
+  }, {
+    "_id": "5a07ef64ad8b300e28e2feb8",
+    "title": "神舟（HASEE）战神K650D-G4D2 15.6英寸游戏笔记本电脑",
+    "cid": "59f1e4919bfd8f3bd030eed6",
+    "price": 0,
+    "old_price": "",
+    "pic": "http://jd.itying.com/upload/iG8QZV0x7Thh8ZFKA3bCTER5.jpg",
+    "s_pic": "http://jd.itying.com/upload/iG8QZV0x7Thh8ZFKA3bCTER5.jpg_200x200.jpg"
+  }, {
+    "_id": "5a07ef8aad8b300e28e2feb9",
+    "title": "神舟（HASEE）战神Z7M-SL7 15.6英寸游戏本笔记本电",
+    "cid": "59f1e4919bfd8f3bd030eed6",
+    "price": 4299,
+    "old_price": "4344",
+    "pic": "http://jd.itying.com/upload/2xieMP7lbTLimlYa0EUSIigx.jpg",
+    "s_pic": "http://jd.itying.com/upload/2xieMP7lbTLimlYa0EUSIigx.jpg_200x200.jpg"
+  }, {
+    "_id": "5a07efc3ad8b300e28e2feba",
+    "title": "微星(MSI)GL62VR 7RFX-848CN 15.6英寸游戏本",
+    "cid": "59f1e4919bfd8f3bd030eed6",
+    "price": 6456,
+    "old_price": "7456",
+    "pic": "http://jd.itying.com/upload/_mqz5JqsZEjnrh7Qui3KfOOO.jpg",
+    "s_pic": "http://jd.itying.com/upload/_mqz5JqsZEjnrh7Qui3KfOOO.jpg_200x200.jpg"
+  }, {
+    "_id": "5a07efe9ad8b300e28e2febb",
+    "title": "戴尔DELL灵越游匣Master15-R4645R 15.6英寸游戏笔记本电脑",
+    "cid": "59f1e4919bfd8f3bd030eed6",
+    "price": 5677,
+    "old_price": "6778",
+    "pic": "http://jd.itying.com/upload/YUv6N37Lriv7QK7WePQmyz-u.jpg",
+    "s_pic": "http://jd.itying.com/upload/YUv6N37Lriv7QK7WePQmyz-u.jpg_200x200.jpg"
+  }, {
+    "_id": "5a07f011ad8b300e28e2febc",
+    "title": "神舟（HASEE）战神Z7M-KP7G1 15.6英寸游戏本笔记本电脑",
+    "cid": "59f1e4919bfd8f3bd030eed6",
+    "price": 6663,
+    "old_price": "7663",
+    "pic": "http://jd.itying.com/upload/iOObZ75SvqV3JKwULSs7DnYO.jpg",
+    "s_pic": "http://jd.itying.com/upload/iOObZ75SvqV3JKwULSs7DnYO.jpg_200x200.jpg"
+  }]
+}
